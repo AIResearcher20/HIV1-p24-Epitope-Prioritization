@@ -1,5 +1,18 @@
-#  Computational Identification of Conserved HIV-1 p24 Epitope Candidates
+#  Computational Identification and Prioritization of Conserved HIV-1 p24 Epitope Candidates
 
+
+<p align="center">
+
+![Status](https://img.shields.io/badge/Status-Completed-2ea44f?style=for-the-badge)
+![Sequences](https://img.shields.io/badge/Sequences-185-007ec6?style=for-the-badge)
+![Alignment](https://img.shields.io/badge/MAFFT-235%20positions-6f42c1?style=for-the-badge)
+![Candidates](https://img.shields.io/badge/Candidates-21-f39c12?style=for-the-badge)
+
+![Python](https://img.shields.io/badge/Python-3.10-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bioinformatics](https://img.shields.io/badge/Bioinformatics-Immunoinformatics-8A2BE2?style=for-the-badge)
+![Reproducible](https://img.shields.io/badge/Workflow-Reproducible-00A98F?style=for-the-badge)
+
+</p>
 > A fully reproducible, open-source computational pipeline for sequence-based prioritization of conserved T-cell and B-cell epitope candidates from HIV-1 p24.
 
 ---
